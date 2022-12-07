@@ -5,10 +5,11 @@ dependencies:
   - matplotlib
   - numpy
   - xarray
+  - pandas
   - scipy
   - netcdf4
   - ipython
   - jupyter
   - pip
   - pip:
-    - finnuftpy
+    - finufft
